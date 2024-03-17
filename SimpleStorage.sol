@@ -2,6 +2,8 @@
 
 pragma solidity ^0.6.0;
 
+
+
 contract SimpleStorage {
     
     // this will get initialized to 0!
